@@ -9,10 +9,10 @@ publisher:
 keywords: []
 description: ''
 app_links: []
-isBasedOnUrl: 'https://thegrid.ai/avilaenterprises/index.html'
+isBasedOnUrl: 'https://thegrid.ai/avilaenterprises/'
 title: ENTREPRENEURSHIPS
-datePublished: '2016-04-04T07:27:50.916Z'
-dateModified: '2016-04-04T07:27:35.928Z'
+datePublished: '2016-04-04T23:10:27.479Z'
+dateModified: '2016-04-04T07:28:23.933Z'
 sourcePath: _posts/2016-04-04-entrepreneurships.md
 published: true
 inFeed: true
