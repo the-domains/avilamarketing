@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[AVILAMARKETING]]></title>
         <description><![CDATA[AVILAMARKETING]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/avilamarketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 02:39:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 02:39:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/avilamarketing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Almost Got It !!!]]></title>
+            <description><![CDATA[<article><h1>Almost Got It !!!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b5f1d9e-96a6-4f59-8443-6fe6af443127.png"></article>]]></description>
+            <link>https://thegrid.ai/avilamarketing/almost-got-it/index.html</link>
+            <guid isPermaLink="false">c3c96bc1-3998-4164-a3df-7372b26f4863</guid>
+            <pubDate>Mon, 04 Apr 2016 02:38:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sell Your Stuff or Find What You've been looking For !!!]]></title>
             <description><![CDATA[<article><h1>Sell Your Stuff or Find What You've been looking For !!!</h1><p>Join me on OfferUp to buy and sell locally in 30 seconds.</p></article>]]></description>
