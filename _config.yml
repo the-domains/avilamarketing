@@ -1,0 +1,28 @@
+name: AVILAMARKETING
+favicon: null
+layout_spectrum: 0.7637090908829123
+typography_spectrum: 0.630526676774025
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5520913389045745
+  lightness: 0.14425677177496254
+  saturation: 0.0982442470267415
+  rhythmicContrast: 0.23628889210522175
+purpose: []
