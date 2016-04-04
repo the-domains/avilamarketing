@@ -4,7 +4,7 @@
         <description><![CDATA[AVILAMARKETING]]></description>
         <link>https://thegrid.ai/avilamarketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 07:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 07:17:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/avilamarketing/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.youtube.com/results?search_query=katy+perry</link>
             <guid isPermaLink="false">aa668f8e-9f86-4494-a186-194dedbcebee</guid>
             <pubDate>Mon, 04 Apr 2016 05:34:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://img2.timeinc.net/people/i/2015/news/150608/paris-jackson-435.jpg">]]></description>
+            <link>https://thegrid.ai/avilamarketing/1731e6cf-31bd-4c13-beb7-3af977c3b210/index.html</link>
+            <guid isPermaLink="false">1731e6cf-31bd-4c13-beb7-3af977c3b210</guid>
+            <pubDate>Mon, 04 Apr 2016 07:17:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80328008-730c-4695-ab8f-d6f3f1b2dd53.jpg">]]></description>
             <link>https://thegrid.ai/avilamarketing/dd621acc-a187-46d3-9db1-425bc46792b3/index.html</link>
             <guid isPermaLink="false">dd621acc-a187-46d3-9db1-425bc46792b3</guid>
-            <pubDate>Mon, 04 Apr 2016 05:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e02cae9d-be6f-4958-aa2f-798df3fbbbd3.jpg">]]></description>
-            <link>https://thegrid.ai/avilamarketing/a7b7095e-e676-498f-9782-8431c46487f2/index.html</link>
-            <guid isPermaLink="false">a7b7095e-e676-498f-9782-8431c46487f2</guid>
             <pubDate>Mon, 04 Apr 2016 05:34:47 GMT</pubDate>
         </item>
     </channel>
