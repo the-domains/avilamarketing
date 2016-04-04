@@ -4,7 +4,7 @@
         <description><![CDATA[AVILAMARKETING]]></description>
         <link>https://thegrid.ai/avilamarketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 05:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 05:35:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/avilamarketing/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,20 @@
             <link>https://www.youtube.com/results?search_query=katy+perry</link>
             <guid isPermaLink="false">aa668f8e-9f86-4494-a186-194dedbcebee</guid>
             <pubDate>Mon, 04 Apr 2016 05:34:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/373fe395-409a-42a1-907a-142b48994416.jpg">]]></description>
+            <link>https://thegrid.ai/avilamarketing/c14ef910-9924-43d8-8acc-57ecd881adea/index.html</link>
+            <guid isPermaLink="false">c14ef910-9924-43d8-8acc-57ecd881adea</guid>
+            <pubDate>Mon, 04 Apr 2016 05:34:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/689341c8-d802-4d22-ab42-205782b1fdd7.jpg">]]></description>
+            <link>https://thegrid.ai/avilamarketing/bdc95216-3e13-4974-aa0f-88599cbe9456/index.html</link>
+            <guid isPermaLink="false">bdc95216-3e13-4974-aa0f-88599cbe9456</guid>
+            <pubDate>Mon, 04 Apr 2016 05:34:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/avilamarketing/6258060a-f447-4ac0-96dc-4a8033ae5bf2/index.html</link>
             <guid isPermaLink="false">6258060a-f447-4ac0-96dc-4a8033ae5bf2</guid>
             <pubDate>Mon, 04 Apr 2016 05:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/badf2bc9-d8e4-4f1a-8898-8fe95f7e9dc2.jpg">]]></description>
-            <link>https://thegrid.ai/avilamarketing/3dd45f04-c5d2-4333-a506-4e4715a54ced/index.html</link>
-            <guid isPermaLink="false">3dd45f04-c5d2-4333-a506-4e4715a54ced</guid>
-            <pubDate>Mon, 04 Apr 2016 05:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/940f4c12-293c-4ad6-8fb6-3e895520b0ef.jpg">]]></description>
-            <link>https://thegrid.ai/avilamarketing/76ef0358-c758-409e-9e2e-aa9c7f9ba5d9/index.html</link>
-            <guid isPermaLink="false">76ef0358-c758-409e-9e2e-aa9c7f9ba5d9</guid>
-            <pubDate>Mon, 04 Apr 2016 05:34:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
