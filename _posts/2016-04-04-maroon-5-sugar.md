@@ -14,8 +14,8 @@ description: 'Buy Sugar on iTunes: http://smarturl.it/M5V Catch Maroon 5 on tour
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=09R8_2nJtjg&list=PLIXR_3Q6owLZlOOIWrHRLgNd9y4KFYjlr'
 title: Maroon 5 - Sugar
-datePublished: '2016-04-04T02:38:36.375Z'
-dateModified: '2016-03-17T04:25:18.782Z'
+datePublished: '2016-04-04T02:38:36.399Z'
+dateModified: '2016-03-17T04:25:21.352Z'
 sourcePath: _posts/2016-04-04-maroon-5-sugar.md
 published: true
 inFeed: true
