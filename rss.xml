@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AVILAMARKETING]]></title>
+        <description><![CDATA[AVILAMARKETING]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Apr 2016 02:39:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sell Your Stuff or Find What You've been looking For !!!]]></title>
+            <description><![CDATA[<article><h1>Sell Your Stuff or Find What You've been looking For !!!</h1><p>Join me on OfferUp to buy and sell locally in 30 seconds.</p></article>]]></description>
+            <link>http://offerupnow.com/get-the-app</link>
+            <guid isPermaLink="false">a56ac3af-32c6-497a-a414-5ee4924ed8a4</guid>
+            <pubDate>Mon, 04 Apr 2016 02:38:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
