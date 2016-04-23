@@ -4,7 +4,7 @@
         <description><![CDATA[AVILAMARKETING]]></description>
         <link>https://thegrid.ai/avilamarketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 06:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 06:30:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/avilamarketing/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/user/SelenaGomezVEVO</link>
             <guid isPermaLink="false">5f40111d-3c9e-4a31-b55d-38615a2cdf47</guid>
             <pubDate>Mon, 04 Apr 2016 05:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.ytimg.com/vi_webp/AjTAW3yfXJ8/mqdefault.webp">]]></description>
+            <link>https://thegrid.ai/avilamarketing/8049e8ef-afa8-4b40-907b-ead31d6e605b/index.html</link>
+            <guid isPermaLink="false">8049e8ef-afa8-4b40-907b-ead31d6e605b</guid>
+            <pubDate>Sat, 23 Apr 2016 06:29:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/373fe395-409a-42a1-907a-142b48994416.jpg">]]></description>
             <link>https://thegrid.ai/avilamarketing/c14ef910-9924-43d8-8acc-57ecd881adea/index.html</link>
             <guid isPermaLink="false">c14ef910-9924-43d8-8acc-57ecd881adea</guid>
-            <pubDate>Mon, 04 Apr 2016 05:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd8e5063-707e-4375-8b9a-76ac8a00972e.jpg">]]></description>
-            <link>https://thegrid.ai/avilamarketing/48883d57-8266-494a-8d76-0a0fc515ed8c/index.html</link>
-            <guid isPermaLink="false">48883d57-8266-494a-8d76-0a0fc515ed8c</guid>
             <pubDate>Mon, 04 Apr 2016 05:34:47 GMT</pubDate>
         </item>
     </channel>
