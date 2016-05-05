@@ -9,10 +9,10 @@ publisher:
 keywords: []
 description: 'Fashion Nova brings you the trendiest clothes & accessories which like the nova star, is extremely hot & bright. As the current fashions begin to fade ...'
 app_links: []
-isBasedOnUrl: 'https://cat.sv.us.criteo.com/delivery/ck.php?cppv=1&cpp=Mv6dd3xJYjBDaDUvU1MwcU80TTVPYzJxOEM1ZjBaTFhWcmNpVWJtSXV1SzM2WXJyRFZwdHJFK1cwQ01PR0x2N243bDQwbjhBMmY5d3BKTEQ3V3E0QVYxYWI5RFF0RFFPMktTNFZ6WC9MV0g5UktEZ0JpNmJVR2lBdExLOG4zU2VMV29FcXhlUnhVQmx0dWdaSUhVaFJzb1JsbWE1dzBiSFljN214U016RDNsS0tnbXMxZEpSTU16a01ZcTk0WVJzSnU2bFJCalovaWVabU5jM2hRaGk4Um1qN3haTkJEdGhQTWF6UTRRd1AzOTRyQ2ZIbk5ZanNOaHJtT2pKbWEzdFB3VHF4REp1eEZTK01MZGxXbU1Vd0NpVEhiN2dEY1hKN1BKSEtvYndhZUpxRFJTSFZvS0lFcDlBcWNNQTE3R0lUcG13YTRPb3E0cUZCRE8xWTBTK1VPWUM5SEE9PXw%3D&maxdest=http%3A%2F%2Fwww.fashionnova.com%3Futm_source%3Dcriteo%26utm_medium%3Dcpc%26utm_campaign%3Dremarketing'
+isBasedOnUrl: 'https://cat.sv.us.criteo.com/delivery/ck.php?cppv=1&cpp=Q07EHHxJYjBDaDUvU1MwcU80TTVPYzJxOEN6OEFmT09BbnU0a1ZicVpZRVlLRE40QzlidGw4NXJYTTZrTFhUZC9jejNsV25iTWlPRDZNNFNubStKTlYrbG1YUGNCSzFXbVVidHlMUk54M010NC9SNWlvSjRDaW9FVjl1SWdFS09SOHRRWEFsTmVVc1duS09UbUxLS21yVW51UWhrcGQyalBhY2FFVUFMejZmeHF6NFdCaFVDY2tlVnFLRTc0aTlzakNESXE5RlJGdVhMaFQzQUVldDJzTlFUVlFlK3FyWmFFbmsrVmFjWXhkWFlQSHR2MDRwb211K2JIT2FqZG9NeEoxbk5WMk5uemxVdlZ1cFF4ZmIwTXMxODY2Y1RZVG9GbFhCL0UzbDNQV21nMEZGM0JJU2N1Y0Z2blBET3RhRzlKWUpiRFE2S0N5aW1BSWNQVE5PNmtjL3JWbEE9PXw%3D&maxdest=http%3A%2F%2Fwww.fashionnova.com%3Futm_source%3Dcriteo%26utm_medium%3Dcpc%26utm_campaign%3Dremarketing'
 title: 'Fashion Nova | Fashion Nova Online Store'
-datePublished: '2016-05-05T07:35:37.853Z'
-dateModified: '2016-05-05T07:35:08.648Z'
+datePublished: '2016-05-05T07:39:22.783Z'
+dateModified: '2016-05-05T07:38:37.503Z'
 starred: false
 sourcePath: _posts/2016-05-05-fashion-nova-or-fashion-nova-online-store.md
 inFeed: true
